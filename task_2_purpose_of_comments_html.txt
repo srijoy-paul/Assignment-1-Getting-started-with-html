@@ -1,0 +1,18 @@
+The purpose of comments in HTML :
+1.> is to add extra information for a piece of code. Basically to document our html code that what is the purpose of this piece of code(a piece of code,  which can be any html element: a button, lists, navigation bar) written in html.
+
+We can use comments in html by wrapping the code inside: <!-- *html code* -->
+Example: 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Comments in HTML</title> <!-- This will be displayed as a title of the webpage, at the tabs. -->
+</head>
+<body>
+    <h1>Learn about HTML comments</h1>
+    <!-- We can uncomment the next line and comment out the previous line, when we have learned about "comments" in HTML -->
+    <!-- <p>I have learned about HTML comments</p> -->
+</body>
+</html>

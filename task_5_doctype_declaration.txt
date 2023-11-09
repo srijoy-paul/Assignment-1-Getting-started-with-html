@@ -1,0 +1,2 @@
+The DOCTYPE declaration is used to denote which version of HTML we are using in our HTML document. We place it at the starting of the HTML document.
+For ex: <!DOCTYPE html> : It means HTML version 5 is being used.

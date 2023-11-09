@@ -1,0 +1,17 @@
+1. Tags in HTML:
+Basically, tags in html are used to structure our webpage and to define how our content should be displayed. The tag names are enclosed within '<' and '>' bracket. There are opening and closing of a tag.
+There are two types of tags:
+i.) <tag_name></tag_name>
+ex: <p></p>
+
+ii.) <tag_name/>
+ex: <br/>
+
+2. Elements in HTML:
+Basically, the opening tag, the content, the closing tag, together as a whole is considered as elements in html.
+ex:
+<h1>Hello!</h1> 
+The whole thing written in the previous line, is called an element.
+here, <h1> is the opening tag.
+     Hello! is the content.
+     </h1> is the closing tag.
